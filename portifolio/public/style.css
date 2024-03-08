@@ -1,0 +1,22 @@
+* {
+    font-family: "Verdana", "Arial", sans-serif;
+    font-size: 60pt;
+    text-align: center;
+}
+
+body{
+    align-items: center;
+    background: #24292E;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    margin: 0;
+}
+
+main {
+    background: #2F363D;
+    color: #fff;
+    letter-spacing: 1px;
+    max-width: 400px;
+    padding: 32px;
+}
