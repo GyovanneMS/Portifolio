@@ -17,6 +17,19 @@ main {
     background: #2F363D;
     color: #fff;
     letter-spacing: 1px;
-    max-width: 400px;
+    min-width: 400px;
     padding: 32px;
+}
+a {
+    color: #0066ff;
+    margin: 0 16px;
+    text-decoration: none;
+}
+
+div:not(:last-child){
+    margin-bottom: 16px;
+}
+img{
+    height: 700px;
+    width: auto;
 }
